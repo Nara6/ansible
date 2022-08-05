@@ -5,5 +5,5 @@
    ```
 ### Example:
 ```sh
-   ansible-playbook -i grafana 
+   ansible-playbook -i grafana git-clone-playbook.yml
    ```
