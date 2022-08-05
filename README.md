@@ -1,7 +1,5 @@
 ## Ansible Playbook
 # To run
-
-## 
 ```sh
-   npm install
+   ansible-playbook -i [name-inventory] [playbookfile.yml]
    ```
